@@ -11,7 +11,7 @@ Acerca del Proyecto
 
 Prerrequisitos
 
-Uso
+Uso:
 
 📸 Demostración
 
