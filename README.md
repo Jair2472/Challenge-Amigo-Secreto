@@ -47,7 +47,8 @@ Solo necesitas un navegador web moderno compatible con HTML5, CSS3 y JavaScript.
 
 -Microsoft Edge
 
-Uso
+Uso:
+
 Clona el repositorio o descarga los archivos del proyecto.
 
 git clone https://github.com/Jair2472/Challenge-Amigo-Secreto.git
